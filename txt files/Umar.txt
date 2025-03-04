@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Wajid.txt
+Data :
+Umar
+21i-0081
+DBMS
+60
+Passed
+Left Child: NULL
+Right Child: NULL

@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Ali.txt
+Data :
+Arham
+21i-0076
+OS
+91
+Passed
+Left Child: NULL
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Asad.txt

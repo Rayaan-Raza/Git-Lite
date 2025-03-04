@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Taha.txt
+Data :
+Zainab
+21i-0080
+Algo
+94
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Wajid.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Zara.txt

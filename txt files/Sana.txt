@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Taha.txt
+Data :
+Sana
+21i-0086
+OS
+85
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Rimsha.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Sara.txt

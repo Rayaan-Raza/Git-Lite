@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Owais.txt
+Data :
+Taha
+21i-0074
+DBMS
+81
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Sana.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Zainab.txt

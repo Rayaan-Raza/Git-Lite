@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Sana.txt
+Data :
+Rimsha
+21i-0084
+Algo
+82
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Owais.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Saad.txt

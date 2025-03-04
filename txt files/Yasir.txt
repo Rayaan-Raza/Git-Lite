@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Wajid.txt
+Data :
+Yasir
+21i-0095
+Algo
+59
+Passed
+Left Child: NULL
+Right Child: NULL

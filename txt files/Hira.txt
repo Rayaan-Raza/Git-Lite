@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Hassan.txt
+Data :
+Hira
+21i-0090
+Algo
+96
+Passed
+Left Child: NULL
+Right Child: NULL

@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Farhan.txt
+Data :
+Fatima
+21i-0099
+DBMS
+91
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Faryal.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Hadi.txt

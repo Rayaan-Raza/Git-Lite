@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Rimsha.txt
+Data :
+Saad
+21i-0092
+Algo
+75
+Passed
+Left Child: NULL
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Salman.txt

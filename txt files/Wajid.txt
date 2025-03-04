@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Zainab.txt
+Data :
+Wajid
+21i-0097
+OS
+88
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Umar.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Yasir.txt

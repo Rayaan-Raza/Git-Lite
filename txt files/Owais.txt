@@ -1,0 +1,9 @@
+Parent: NULL
+Data :
+Owais
+21i-0066
+Algo
+85
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Ayesha.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Taha.txt

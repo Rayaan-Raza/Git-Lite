@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Mehwish.txt
+Data :
+Muneeb
+21i-0093
+OS
+92
+Passed
+Left Child: NULL
+Right Child: NULL

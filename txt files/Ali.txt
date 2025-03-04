@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Ayesha.txt
+Data :
+Ali
+21i-0069
+OS
+88
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Adnan.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Arham.txt

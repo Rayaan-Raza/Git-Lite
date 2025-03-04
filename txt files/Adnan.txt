@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Ali.txt
+Data :
+Adnan
+21i-0087
+Algo
+50
+Failed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Adeel.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Ahmed.txt

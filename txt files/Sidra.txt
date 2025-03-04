@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Sara.txt
+Data :
+Sidra
+21i-0079
+OS
+55
+Passed
+Left Child: NULL
+Right Child: NULL

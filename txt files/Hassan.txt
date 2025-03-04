@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Javeria.txt
+Data :
+Hassan
+21i-0073
+Algo
+77
+Passed
+Left Child: NULL
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Hira.txt

@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Farhan.txt
+Data :
+Faiza
+21i-0089
+OS
+87
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Bilal.txt
+Right Child: NULL

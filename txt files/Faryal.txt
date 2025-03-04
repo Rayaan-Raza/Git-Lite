@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Fatima.txt
+Data :
+Faryal
+21i-0094
+DBMS
+67
+Passed
+Left Child: NULL
+Right Child: NULL

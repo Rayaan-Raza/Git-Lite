@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Adnan.txt
+Data :
+Adeel
+21i-0083
+OS
+79
+Passed
+Left Child: NULL
+Right Child: NULL

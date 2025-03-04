@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Owais1.txt
+Data :
+Raza
+21i-0100
+OS
+84
+Passed
+Left Child: NULL
+Right Child: NULL

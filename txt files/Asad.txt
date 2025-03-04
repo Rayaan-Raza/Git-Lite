@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Arham.txt
+Data :
+Asad
+21i-0078
+DBMS
+86
+Passed
+Left Child: NULL
+Right Child: NULL

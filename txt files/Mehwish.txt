@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Javeria.txt
+Data :
+Mehwish
+21i-0075
+Algo
+68
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Lubna.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Muneeb.txt

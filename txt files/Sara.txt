@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Sana.txt
+Data :
+Sara
+21i-0070
+DBMS
+92
+Passed
+Left Child: NULL
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Sidra.txt

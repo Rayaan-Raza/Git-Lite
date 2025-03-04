@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Ayesha.txt
+Data :
+Hamza
+21i-0082
+Algo
+89
+Passed
+Left Child: C:\users\HP\Desktop\Data Structures Project\txt files\Farhan.txt
+Right Child: C:\users\HP\Desktop\Data Structures Project\txt files\Javeria.txt

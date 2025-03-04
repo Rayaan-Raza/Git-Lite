@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Saad.txt
+Data :
+Salman
+21i-0096
+DBMS
+80
+Passed
+Left Child: NULL
+Right Child: NULL

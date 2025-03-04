@@ -1,0 +1,9 @@
+Parent: C:\users\HP\Desktop\Data Structures Project\txt files\Faiza.txt
+Data :
+Bilal
+21i-0091
+DBMS
+83
+Passed
+Left Child: NULL
+Right Child: NULL
