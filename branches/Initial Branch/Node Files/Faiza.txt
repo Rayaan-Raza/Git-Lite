@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Farhan.txt
+Data :
+Faiza
+21i-0089
+OS
+87
+Passed
+Left Child: NULL
+Right Child: NULL

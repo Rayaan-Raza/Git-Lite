@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Fatima.txt
+Data :
+Hadi
+21i-0085
+DBMS
+73
+Passed
+Left Child: NULL
+Right Child: NULL

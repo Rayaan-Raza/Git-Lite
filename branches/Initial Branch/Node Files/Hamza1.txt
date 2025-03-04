@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Hassan.txt
+Data :
+Hamza
+21i-0088
+OOP
+49
+Failed
+Left Child: NULL
+Right Child: NULL

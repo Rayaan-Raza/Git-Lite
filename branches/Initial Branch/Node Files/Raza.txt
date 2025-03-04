@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Salman.txt
+Data :
+Raza
+21i-0001
+OS
+84
+Passed
+Left Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Owais.txt
+Right Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Rimsha.txt

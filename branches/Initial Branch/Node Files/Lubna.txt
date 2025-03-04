@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Mehwish.txt
+Data :
+Lubna
+21i-0045
+Algo
+66
+Passed
+Left Child: NULL
+Right Child: NULL

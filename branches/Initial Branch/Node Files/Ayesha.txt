@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Hamza.txt
+Data :
+Ayesha
+21i-0068
+Algo
+78
+Passed
+Left Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Ali.txt
+Right Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Fatima.txt

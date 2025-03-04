@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Shehreyar1.txt
+Data :
+Shehreyar
+21i-0083
+OS
+79
+Passed
+Left Child: NULL
+Right Child: NULL

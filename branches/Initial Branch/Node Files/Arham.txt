@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Ali.txt
+Data :
+Arham
+21i-0076
+OS
+91
+Passed
+Left Child: NULL
+Right Child: NULL

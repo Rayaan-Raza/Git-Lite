@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Ali.txt
+Data :
+Ahmed
+21i-0067
+DBMS
+90
+Passed
+Left Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Adnan.txt
+Right Child: NULL

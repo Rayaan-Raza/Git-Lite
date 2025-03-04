@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Ahmed.txt
+Data :
+Adnan
+21i-0087
+Algo
+50
+Failed
+Left Child: NULL
+Right Child: NULL

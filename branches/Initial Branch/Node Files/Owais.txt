@@ -1,0 +1,9 @@
+Parent: NULL
+Data :
+Owais
+21i-0066
+Algo
+85
+Passed
+Left Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Hamza.txt
+Right Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Shehreyar.txt

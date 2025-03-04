@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Zara.txt
+Data :
+Zainab
+21i-0080
+Algo
+94
+Passed
+Left Child: NULL
+Right Child: NULL

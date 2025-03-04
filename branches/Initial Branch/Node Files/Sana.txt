@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Sara.txt
+Data :
+Sana
+21i-0086
+OS
+85
+Passed
+Left Child: NULL
+Right Child: NULL

@@ -1,0 +1,9 @@
+Parent: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Javeria.txt
+Data :
+Mehwish
+21i-0075
+Algo
+68
+Passed
+Left Child: C:\Users\HP\Desktop\Data Structures Project\.git\branches\Initial Branch\Node Files\Lubna.txt
+Right Child: NULL
