@@ -1,4 +1,4 @@
-# Git-Like Repository System with Tree Structures
+# Git-Lite: Repository System with Tree Structures
 
 ##  Overview
 This project is a **version control system** designed for handling structured data efficiently using **AVL Trees, B-Trees, or Red-Black Trees**. Instead of relying on RAM-heavy storage, it **stores nodes as text files**, optimizing performance for large datasets. 
